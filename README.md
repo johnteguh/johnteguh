@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Yohanes Teguh Ukur Ginting</h1>
 <h3 align="center">Informatics Student at Institut Teknologi Sepuluh Nopember</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnteguh&label=Profile%20views&color=0e75b6&style=flat" alt="johnteguh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnteguh" alt="johnteguh" /></a> </p>
+
+- 🔭 I’m currently working on **Back-end Development, Software Engineering, Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
